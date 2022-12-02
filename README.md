@@ -1,1 +1,1 @@
-- The git server for https://github.com/jwtk/jjwt/issues/755
+- The git server for https://github.com/jwtk/jjwt/issues/762
